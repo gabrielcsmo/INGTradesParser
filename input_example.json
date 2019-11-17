@@ -1,0 +1,4 @@
+{
+	"input_files" : [ "path/to/economii.csv", "path/to/curent.csv"],
+	"ibans" : ["RO58INGBXXXXXXXXXXX1234", "RO31INGBXXXXXXXXXXX5678"]
+}
